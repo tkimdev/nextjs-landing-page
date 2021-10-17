@@ -6,6 +6,8 @@ Coded the React portion of each section & component from scratch.
 
 ### [Live Site](https://objective-meninsky-dd1ce1.netlify.app/)
 
+#
+
 Technologies Used: 
 + Next.js 
 
