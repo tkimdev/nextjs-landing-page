@@ -1,6 +1,6 @@
 # Next.js Landing Page 
 
-A Preminum Next JS React Business Portfolio Landing Page provided by Next.js Startup Template. 
+A Next JS React Business Portfolio Landing Page provided by Next.js Startup Template. 
 
 Coded the React portion of each section & component from scratch.  
 
