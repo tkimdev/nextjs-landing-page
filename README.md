@@ -4,9 +4,7 @@ A Preminum Next JS React Business Portfolio Landing Page provided by Next.js Sta
 
 Coded the React portion of each section & component from scratch.  
 
-### [Live Site](https://objective-meninsky-dd1ce1.netlify.app/) {:target="_blank" rel="noopener"}
-
-### <a href="http://..." target="_blank">external link</a>
+### <a href="https://objective-meninsky-dd1ce1.netlify.app/" target="_blank">LIVE SITE</a>
 
 Technologies Used: 
 + Next.js 
