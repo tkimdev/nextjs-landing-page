@@ -20,6 +20,7 @@ Learned:
 + React.js 
 + Scalable React Folder Structure 
 + Theme UI 
++ Responsive Design 
 + SVG Icons 
 
 Setup:
