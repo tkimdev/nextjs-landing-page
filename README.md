@@ -6,7 +6,7 @@ Coded the React portion of each section & component from scratch.
 
 ### [Live Site](https://objective-meninsky-dd1ce1.netlify.app/) {:target="_blank" rel="noopener"}
 
-[go](https://objective-meninsky-dd1ce1.netlify.app/){:target="_blank" rel="noopener"}
+<a href="http://..." target="_blank">external link</a>
 
 Technologies Used: 
 + Next.js 
