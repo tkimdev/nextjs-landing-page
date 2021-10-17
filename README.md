@@ -31,9 +31,9 @@ Install the dependencies and run the development server
 npm install
 npm run dev
 yarn
-yarn dev
-
-# or![sadas](https://user-images.githubusercontent.com/68490255/137621027-7e5c0988-e29c-42ec-8b36-2b0f25997c78.jpg)
+yarn dev```
 
 
+
+asdasd
 
