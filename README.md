@@ -33,5 +33,5 @@ Install the dependencies and run the development server
 npm install
 npm run dev
 yarn
-yarn dev```
+yarn dev
 
