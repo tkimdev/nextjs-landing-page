@@ -11,7 +11,7 @@ Coded the React portion of each section & component from scratch.
 ### Technologies Used: 
 + Next.js 
 
-###Dependencies: 
+### Dependencies: 
 + React Custom Scrollbars
 + RC Drawer
 + Modal Video 
@@ -20,7 +20,7 @@ Coded the React portion of each section & component from scratch.
 + Theme UI
 + Typeface 
 
-###Learned: 
+### Learned: 
 + React.js 
 + Scalable React Folder Structure 
 + Theme UI 
@@ -29,7 +29,7 @@ Coded the React portion of each section & component from scratch.
 
 ![sadas](https://user-images.githubusercontent.com/68490255/137621056-5e71fbef-7615-4725-8dbf-86d8b56e74e0.jpg)
 
-###Setup:
+### Setup:
 Install the dependencies and run the development server
 ```bash
 npm i
