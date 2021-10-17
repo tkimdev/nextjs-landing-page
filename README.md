@@ -31,4 +31,3 @@ npm run dev
 # or
 yarn
 yarn dev
-```# nextjs-landing-page
