@@ -9,6 +9,7 @@ Coded the React portion of each section & component from scratch.
 Technologies Used: 
 + Next.js 
 
+---
 
 
 Dependencies: 
