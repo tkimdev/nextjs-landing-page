@@ -25,6 +25,8 @@ Learned:
 + Responsive Design 
 + SVG Icons 
 
+![sadas](https://user-images.githubusercontent.com/68490255/137621056-5e71fbef-7615-4725-8dbf-86d8b56e74e0.jpg)
+
 Setup:
 Install the dependencies and run the development server
 ```bash
@@ -32,8 +34,4 @@ npm install
 npm run dev
 yarn
 yarn dev```
-
-
-
-asdasd
 
