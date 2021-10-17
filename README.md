@@ -9,8 +9,7 @@ Coded the React portion of each section & component from scratch.
 Technologies Used: 
 + Next.js 
 
-```
-```
+
 
 Dependencies: 
 + React Custom Scrollbars
@@ -38,4 +37,4 @@ npm run dev
 or
 yarn i
 yarn dev
-
+```
